@@ -1,5 +1,5 @@
 <a href="https://www.maxkasperowicz.com/">
-<img src="./public/bg2.png" alt="Header image" />
+<img src="./public/bg.png" alt="Header image" />
 </a>
 
 ## About me
