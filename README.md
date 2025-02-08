@@ -8,7 +8,7 @@ I'm Maksymilian Kasperowicz, a full-stack developer from Poland. I have a passio
 
 Recently, I’ve been expanding my horizons with Go and Zig, enjoying recreational programming.
 
-Outside of programming, I love reading sci-fi, dystopian, and fantasy genres. I enjoy both coffee and tea (withouth milk of course).
+Outside of programming, I love reading sci-fi, dystopian, and fantasy genres. I enjoy both coffee and tea (without milk of course).
 
 ![JavaScript](./public/icons/JavascriptIcon.svg)
 ![TypeScript](./public/icons/TypescriptIcon.svg)
