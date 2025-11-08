@@ -11,6 +11,7 @@ Outside of programming, I love reading sci-fi, dystopian, and fantasy books. I'm
 ![Golang](./public/icons/GoIcon.svg)
 ![React](./public/icons/ReactIcon.svg)
 ![Solidjs](./public/icons/SolidjsIcon.svg)
+![Svelte](./public/icons/SvelteIcon.svg)
 ![Nextjs](./public/icons/NextjsIcon.svg)
 ![Nodejs](./public/icons/NodejsIcon.svg)
 ![HTML](./public/icons/HtmlIcon.svg)
