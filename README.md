@@ -33,7 +33,7 @@ Outside of programming, I love reading sci-fi, dystopian, and fantasy books. I'm
 ## Links
 
 - [Personal website](https://www.maxkasperowicz.com/)
-- [Apps](https://www.maxkasperowicz.com/#projects)
+- [Apps](https://www.maxkasperowicz.com/apps)
     - [Cyberpunk breach protocol](https://www.cyberpunk-breach-protocol.com/)
     - [SVG to React / Native / SolidJS](https://www.figma.com/community/plugin/1139659790182545298/svg-to-react-native-solidjs)
     - [Fast SVG Optimizer](https://www.fast-svg-optimizer.com/)
