@@ -20,7 +20,7 @@ Outside of programming, I love reading sci-fi, dystopian, and fantasy books. I'm
 ![HTML](./public/icons/html.svg)
 ![Css](./public/icons/css.svg)
 ![Sass](./public/icons/sass.svg)
-![TailwindCSS](./public/icons/tailwindCss.svg)
+![TailwindCSS](./public/icons/tailwindcss.svg)
 ![Zustand](./public/icons/zustand.svg)
 ![PostgreSql](./public/icons/postgresql.svg)
 ![Supabase](./public/icons/supabase.svg)
