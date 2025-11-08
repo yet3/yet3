@@ -1,14 +1,10 @@
-<a href="https://www.maxkasperowicz.com/">
-<img src="./public/bg.png" alt="Header image" />
-</a>
-
 ## About me
 
-I'm Maksymilian Kasperowicz, a full-stack developer from Poland. I have a passion for building highly interactive applications, whether they're useful tools or just for fun pet projects.
+I'm Maksymilian Kasperowicz, a developer from Poland who enjoys building highly interactive applications, whether they're practical tools or just fun projects. I particularly enjoy working on visual/text text editors. Recently, I’ve been exploring Go and Zig, doing recreational programming and playing around with SDL3.
 
-Recently, I’ve been expanding my horizons with Go and Zig, enjoying recreational programming.
+Previously, I’ve worked on ERP system for small local recycling/manufacturing plant, scheduling/management system for a dental clinic, and an editor/AI generator for presentations/business documents.
 
-Outside of programming, I love reading sci-fi, dystopian, and fantasy genres. I enjoy both coffee and tea (without milk of course).
+Outside of programming, I love reading sci-fi, dystopian, and fantasy books. I'm always listening to something I also enjoy both coffee and tea (without milk).
 
 ![JavaScript](./public/icons/JavascriptIcon.svg)
 ![TypeScript](./public/icons/TypescriptIcon.svg)
@@ -29,4 +25,9 @@ Outside of programming, I love reading sci-fi, dystopian, and fantasy genres. I 
 ## Links
 
 - [Personal website](https://www.maxkasperowicz.com/)
-- [Ko-fi](https://ko-fi.com/yet_3)
+- [Apps](https://www.maxkasperowicz.com/#projects)
+    - [Cyberpunk breach protocol](https://www.cyberpunk-breach-protocol.com/)
+    - [SVG to React / Native / SolidJS](https://www.figma.com/community/plugin/1139659790182545298/svg-to-react-native-solidjs)
+    - [Fast SVG Optimizer](https://www.fast-svg-optimizer.com/)
+    - [WebDevTools](https://web-dev-tools-alpha.vercel.app/)
+    - [Char typer](https://char-typer.vercel.app/)
