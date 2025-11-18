@@ -1,6 +1,6 @@
 ## About me
 
-I'm Maksymilian Kasperowicz, a developer from Poland who enjoys building highly interactive applications, whether they're practical tools or just fun projects. I particularly enjoy working on visual/text text editors. Recently, I’ve been exploring Go and Zig, doing recreational programming and playing around with SDL3.
+I'm Maksymilian Kasperowicz, a developer from Poland who enjoys building highly interactive applications, whether they're practical tools or just fun projects. I particularly enjoy working on visual/text editors. Recently, I’ve been exploring Go and Zig, doing recreational programming and playing around with SDL3.
 
 Previously, I’ve worked on ERP system for small local recycling/manufacturing plant, scheduling/management system for a dental clinic, and an editor/AI generator for presentations/business documents.
 
